@@ -1,6 +1,6 @@
 # BSc_MS
 
-## Code repository of a B.Sc. project & an interactive widget to get the pixel coordinates of a maze
+## Repo of a B.Sc. project & an interactive widget to get the pixel coordinates of a maze
 
 ---
 This repository is part of the **DCLwidgets** series. 
